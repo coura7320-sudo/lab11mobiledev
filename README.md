@@ -38,3 +38,4 @@ This repository updates **DAUST Messenger** so a conversation can send and displ
 - **Step 8 — Why no haptic on every key press?**
   The OS keyboard already provides its own subtle feedback if the user wants it; triggering app-level notification haptics on every keystroke overwhelms the user, drains battery, and dulls the meaning of haptics, which should be reserved for meaningful outcomes like completing a send action.
 # lab11mobiledev
+# lab11mobiledev
